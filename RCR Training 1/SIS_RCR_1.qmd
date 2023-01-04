@@ -1,0 +1,201 @@
+---
+title: "RCR & Scholarly Activity In-Person Training"
+format: 
+  revealjs:
+    theme: [default]
+    slide-number: true
+    preview-links: auto
+    logo: images/ORI.png
+    footer: Questions? <tkfr222@uky.edu>
+    transition: fade
+    navigation-mode: vertical
+editor: visual
+self-contained: true
+---
+
+# Introduction
+
+## Why is UK mandating RCR training?
+
+*"As a public institution of higher education, public confidence in the responsible conduct of research (RCR) by faculty, staff and students is critical. We must promote and maintain a culture that is supported by an infrastructure that educates and assists in the ethical conduct of research."*
+
+Lisa Cassis PhD, UK Vice President for Research (VPR)
+
+------------------------------------------------------------------------
+
+UK has had research misconduct cases in the past few years due to a failure of some researchers to follow Responsible Conduct of Research.
+
+::: r-fit-text
+This effects:
+
+-   The reputation of UK and its researchers;
+-   Researchers/research personnel affiliated with the wrongdoer;
+-   Personnel managing the process for research misconduct;
+-   Researchers doing honest work that could have received the research funding used;
+-   General public if faulty data is used in publications is relied upon by the medical community, product development, etc.
+:::
+
+## Areas of RCR Training at UK
+
+-   Mentoring
+-   **Conflict of Interest**
+-   **Peer Review**
+-   Research Misconduct
+-   Data Management
+-   Reproducibility
+
+## What Will The Rest of the Day Look Like?
+
+-   Observe 3 case studies
+-   Discuss in groups
+-   Summarize key points
+
+*Must have minimum 1 hour of contact together*
+
+# Case Study One
+
+## Research Misconduct
+
+Let's talk plagiarism!
+
+::: r-fit-text
+Through this case, learners will:
+
+-   learn about ethical issues with regard to plagiarism
+-   learn about available plagiarism resources
+-   consider ethical writing practices
+:::
+
+[Case Study #1](https://rwebmedia.ad.uky.edu/ORI/RCR_Cases/I_wrote_it_why_rewrite_it/index.html)
+
+## Discussion
+
+::: r-fit-text
+::: incremental
+1.  Sum up the general problem under scrutiny.
+2.  What aspects of the scenario stood out the most to the group.
+3.  Was the graduate student right to be concerned about this practice?
+4.  What do you think of the post-doc's explanation for why he used old papers?
+5.  What might happen if the PI does not change the text before publication.
+6.  What do you think of GS' decision to not talk to anyone about her concerns?
+7.  What could happen is she does pursue this line of questioning?
+8.  What would you do in her place?
+:::
+:::
+
+::: notes
+Additional prompts: - How would you address suspected plagiarism in your workplace? - If you suspected someone of engaging in self-plagiarism, would you address the issue the same as you would with plagiarism of someone else's work? Why or why not?
+:::
+
+## Additional Resources
+
+::: r-fit-text
+-   UK's Research Misconduct webpage: <https://www.research.uky.edu/research-misconduct>
+-   DHHS ORI's *Introduction to the Responsible Conduct of Research*: <https://ori.hhs.gov/sites/default/files/2018-04/rcrintro.pdf>
+-   DHHS ORI's Avoiding Plagiarism, Self-plagiarism, and Other Questionable Writing Practices: A Guide to Ethical Writing:
+-   Online plagiarism tools:
+    -   Plagiarisma (free online plagiarism checker): <http://plagiarisma.net/>
+    -   iThenticate (subscription required online plagiarism checker): <https://www.research.uky.edu/research-misconduct/ithenticate-uk>
+    -   Plagiarismcheck.org (detects similarities and produces unbiased results; requires a subscription): <https://plagiarismcheck.org/>
+    -   Similarity texter (a text comparison tool): <https://people.f4.htwberlin.de/%7Eweberwu/simtexter/app.html>
+-   UK ORI's tips to avoid plagiarism video: <https://rwebmedia.ad.uky.edu/ORI/Research_Misconduct/Plagiarism/index.html>
+:::
+
+# Case Study Two
+
+## Conflict of Interest
+
+An NSF panelist gives a proposal favorable scores even though the proposal was written by her co-PIs. She did not disclose this information to the panel prior to the review.
+
+::: r-fit-text
+Through this case, learners will:
+
+-   learn about conflicts of interest
+-   learn the importance of disclosing conflicts of interest
+:::
+
+[Case Study #2](https://rwebmedia.ad.uky.edu/ORI/SecureContent/SecureContent/RCR_Cases/Conflict_of_Interest/Case_2/index.html)
+
+## Discussion
+
+::: incremental
+1.  What are the issues with this scenario?
+2.  How should the alleged conflict of interest have been handled?
+3.  Can a reviewer provide both a positive and a negative review?
+4.  Why would a reviewer fail to disclose a potential conflict of interest?
+5.  Are there reasons that are excusable?
+:::
+
+::: notes
+Additional prompts: - How should you approach a situation in which you have a clear conflict of interest? - What should you do if you are unsure you have a conflict of interest?
+:::
+
+## Additional Resources
+
+::: r-fit-text
+-   UK ORI's conflict of interest Q&A webpage: <https://www.research.uky.edu/office-research-integrity/conflict-interest-coi-questionsanswers>
+-   UK's Office of Sponsored Projects COI resources:
+    -   <https://www.research.uky.edu/office-sponsored-projects-administration/conflict-interest>
+    -   <https://www.research.uky.edu/office-sponsored-projects-administration/training-resources>
+-   ORI Resources on conflicts of Interest:
+    -   <https://ori.hhs.gov/conflicts-interest-and-commitment>
+    -   <https://ori.hhs.gov/education/products/ucla/chapter4/default.htm>
+    -   <https://ori.hhs.gov/brief-overview-conflict-interests>
+    -   <https://ori.hhs.gov/education/products/wsu/rcr_training07.html>
+:::
+
+# Case Study Three
+
+## Peer Review
+
+A PI is voicing his frustrations with his colleague regarding a recent critical review he received on a manuscript submitted for publication
+
+::: r-fit-text
+Through this case, learners will:
+
+-   learn about ethical conduct related to the peer-review process
+:::
+
+[Case Study #3](https://rwebmedia.ad.uky.edu/ORI/RCR_Cases/Biased_Peer_Review_or_Flawed_Methodology/index.html)
+
+## Discussion
+
+::: incremental
+1.  Sum up the general problem under scrutiny.
+2.  What are the PIs options in this situation?
+3.  If you suspect the motivations behind a review, how would you decide what edits/requests are valid and which are superfluous?
+4.  What would motivate a peer review to purposefully slow down someone's publication?
+5.  What can be done to prevent this from happening?
+:::
+
+::: notes
+Additional prompts: - If you were in the PI's position, how would you respond to the overly harsh comments? - Have you encountered a situation similar to this and how did you respond?
+:::
+
+## Additional Resources
+
+::: r-fit-text
+-   UK's Responsible Conduct of Research & Scholarly Activity webpage: <https://www.research.uky.edu/responsible-conduct-research>
+-   DHHS ORI's *Introduction to the Responsible Conduct of Research*: <https://ori.hhs.gov/sites/default/files/2018-04/rcrintro.pdf>
+-   UK's Good Research Practice Resource Center: <https://www.research.uky.edu/good-research-practice-resource-center>
+-   CITI RCR Course information: <https://www.research.uky.edu/responsible-conduct-research/getting-started>
+-   ORI's resources on peer-review: <https://ori.hhs.gov/peer-review-0>
+:::
+
+# Feedback
+
+## Reflect
+
+::: incremental
+-   What were your big takeaways from the training today?
+-   What lingering questions do you still have regarding the content?
+-   How might you improve this training speciically for faculty in SIS in the future?
+:::
+
+## Case Studies
+
+Post-session RCR Case Study Survey - <https://uky.az1.qualtrics.com/jfe/form/SV_79CaFBt2jglwtMi>
+
+![](Feedback.png)
+
+# Thank you!!
