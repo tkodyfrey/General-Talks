@@ -1,0 +1,193 @@
+---
+title: "RCR & Scholarly Activity In-Person Training"
+format: 
+  revealjs:
+    theme: [dark]
+    slide-number: true
+    preview-links: auto
+    logo: images/ORI.png
+    footer: Questions? <tkfr222@uky.edu>
+    transition: fade
+    navigation-mode: vertical
+editor: visual
+self-contained: true
+---
+
+# Introduction
+
+## Why is UK mandating RCR training?
+
+*"As a public institution of higher education, public confidence in the responsible conduct of research (RCR) by faculty, staff and students is critical. We must promote and maintain a culture that is supported by an infrastructure that educates and assists in the ethical conduct of research."*
+
+Lisa Cassis PhD, UK Vice President for Research (VPR)
+
+------------------------------------------------------------------------
+
+UK has had research misconduct cases in the past few years due to a failure of some researchers to follow Responsible Conduct of Research.
+
+::: r-fit-text
+This effects:
+
+-   The reputation of UK and its researchers;
+-   Researchers/research personnel affiliated with the wrongdoer;
+-   Personnel managing the process for research misconduct;
+-   Researchers doing honest work that could have received the research funding used;
+-   General public if faulty data is used in publications is relied upon by the medical community, product development, etc.
+:::
+
+## Areas of RCR Training at UK
+
+-  **Mentoring**
+-   Conflict of Interest
+-   Peer Review
+-   **Research Misconduct**
+-   **Data Management**
+-   **Safe Work Environments**
+-   Reproducibility
+
+## What Will The Rest of the Day Look Like?
+
+-   Observe 3 case studies
+-   Discuss in groups
+-   Summarize key points
+
+*Must have minimum 1 hour of contact together*
+
+# Case Study One
+
+## Safe Work Environment
+
+In this session, learners will learn about harassment and methods for reporting this misconduct at the University. 
+
+::: r-fit-text
+Through this case, learners will:
+
+-   learn about harassment
+-   consider how to respond to harassment issues
+-   learn how to report harassment at the University
+:::
+
+[Case Study #1](https://rwebmedia.ad.uky.edu/ORI/SecureContent/SecureContent/RCR_Cases/Safe_Work_Environment/Case_9/story.html)
+
+## Discussion
+
+::: r-fit-text
+::: incremental
+1.  What are the issues raised by this case?
+2.  What should Nicole do? If her PI is unwilling to meet, is there anyone else she can contact to try and resolve the situation?
+3.  What are ways you can help prevent harassment in academia?
+:::
+:::
+
+## Additional Resources
+
+::: r-fit-text
+-   UK's Policy on Harassment: <https://www.uky.edu/eeo/discrimination-harassment>; <https://www.uky.edu/regs/sites/www.uky.edu.regs/files/files/ar/ar6-1.pdf>
+-   Resources on Harassment: <https://www.nsf.gov/od/oecr/harassment.jsp>
+-   NIH Anti-Sexual Harassment webpage: <https://www.nih.gov/anti-sexual-harassment>
+-   UK Office of Institutional Equity and Equal Opportunity: <https://www.uky.edu/eeo/>
+-   UK Violence Intervention and Prevention office: <https://www.uky.edu/vipcenter/>
+:::
+
+# Case Study Two
+
+## Mentoring / Data Management
+
+In this session, learners will consider research misconduct, consider how stress in the workplace can contribute to poor ethical conduct, and learn about available University resources.
+
+::: r-fit-text
+Through this case, learners will:
+
+-   examine research misconduct
+-   learn about university resources to manage work-life stressors
+:::
+
+[Case Study #2](https://rwebmedia.ad.uky.edu/ORI/RCR_Cases/Data_Cherry_Picking/index.html)
+
+## Discussion
+
+::: incremental
+1.  What pressures are being faced by the postdoc?
+2.  How might those pressures change how he conducts his research?
+3.  What could the PD have done before the data analysis stage to help prevent this situation?
+4.  Discuss the PD’s assertion that the data is “good enough for the grant application.”
+5.  What ethical issues are raised if misleading data is presented in a grant application?
+6.  How do you balance work/home life? Should you be able to discuss these expectations with the PI?
+7.  What major mistake did the PD make when he deleted all the negative Western blots?
+8.  What would you do if you were in the PD’s position?
+:::
+
+::: notes
+Additional prompts: - How would you have handled the issues if you were the PD? - How do you avoid such issues in your own work? - What would you do if you were in the graduate student’s position and suspected your coworker was engaging in unethical data practices?
+:::
+
+## Additional Resources
+
+::: r-fit-text
+-   UK’s Responsible Conduct of Research & Scholarly Activity webpage: <https://www.research.uky.edu/responsible-conduct-research>
+-   DHHS ORI’s Introduction to the Responsible Conduct of Research: <https://ori.hhs.gov/sites/default/files/2018-04/rcrintro.pdf>
+-   UK’s Good Research Practice Resource Center: <https://www.research.uky.edu/good-research-practice-resource-center>
+-   CITI RCR Course information: <https://www.research.uky.edu/responsible-conduct-research/getting-started>
+-   UK Human Resources webpage for work-life balance resources: <https://www.uky.edu/hr/work-life-and-well-being>
+-   UK’s Research Misconduct webpage: <https://www.research.uky.edu/research-misconduct>
+:::
+
+# Case Study Three
+
+## Research Misconduct
+
+In this session, learners will consider the discovery of research misconduct within their work environment, considerations for how to approach this issue, and methods for reporting misconduct at the University.
+
+::: r-fit-text
+Through this case, learners will:
+
+-   learn about research misconduct
+-   consider how to approach suspected research misconduct
+-   learn how to report research misconduct
+:::
+
+[Case Study #3](https://rwebmedia.ad.uky.edu/ORI/SecureContent/SecureContent/RCR_Cases/Research_Misconduct/Case_2/index.html)
+
+## Discussion
+
+::: incremental
+1.  Sum up the general problem under scrutiny.
+2.  What should she do if she suspects research misconduct?
+3.  With whom should she discuss the issue if the advisor/PI does not have a credible explanation?
+4.  Are there reasonable explanations for the alleged data fabrication?
+5.  Is there a designated person at UK that deals with such issues?
+:::
+
+::: notes
+Additional prompts: - What would you do if you were in Prerna’s situation? - What would you do if you were a PI and this situation was brought before you by a new researcher or graduate student? - Have you ever encountered a similar situation? How did you handle it or how do you wish you would have handled it? - Is any one particular person at fault for the issue in this scenario if it was an instance of honest error or bad data management practices? - What corrective actions could the PI take to ensure this type of scenario does not occur again in the future?
+:::
+
+## Additional Resources
+
+::: r-fit-text
+-   UK’s Research misconduct information and reporting webpage: <https://www.research.uky.edu/research-misconduct>
+-   UK’s Office of Legal Counsel policy on research misconduct: <https://www.uky.edu/regs/ar7-1>
+-   UK’s Responsible conduct in research webpage: <https://www.research.uky.edu/responsible-conduct-research>
+-   ORI’s *Introduction to the Responsible Conduct of Research*: <https://ori.hhs.gov/sites/default/files/2018-04/rcrintro.pdf>
+-   UK’s Good Research Practice Resource Center: <https://www.research.uky.edu/good-research-practice-resource-center>
+-   CITI RCR Course information: <https://www.research.uky.edu/responsible-conduct-research/getting-started>
+-   UK ORI’s webpage: <https://www.research.uky.edu/office-research-integrity>
+:::
+
+# Feedback
+
+## Reflect
+
+::: incremental
+-   What were your big takeaways from the training today?
+-   What lingering questions do you still have regarding the content?
+-   How might you improve this training specifically for faculty in SIS in the future?
+:::
+
+## Case Studies
+
+Post-session RCR Case Study Survey - <https://uky.az1.qualtrics.com/jfe/form/SV_79CaFBt2jglwtMi>
+
+![](Feedback.png)
+
+# Thank you!!
