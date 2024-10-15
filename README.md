@@ -1,2 +1,2 @@
 # Hello!
-This is a repo for me to host various iterations of RCR training for the University of Kentucky. 
+This is a repo for the various iterations of Dr. Kody Frey's Responsible Conduct of Research training at the University of Kentucky. 
