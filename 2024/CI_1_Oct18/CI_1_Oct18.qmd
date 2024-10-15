@@ -1,0 +1,239 @@
+---
+title: "RCR & Scholarly Activity In-Person Training"
+format: 
+  revealjs:
+    theme: [simple]
+    slide-number: true
+    preview-links: auto
+    logo: images/ORI.png
+    footer: Questions? <tkfr222@uky.edu>
+    transition: fade
+    navigation-mode: vertical
+editor: visual
+self-contained: true
+---
+
+# Introduction
+
+Going to start by answering some key questions:
+
+- Why is this necessary?
+- Who made this decision?
+- Who needs the training and when?
+
+## Why is UK mandating RCR training?
+
+*"As a public institution of higher education, public confidence in the responsible conduct of research (RCR) by faculty, staff and students is critical. We must promote and maintain a culture that is supported by an infrastructure that educates and assists in the ethical conduct of research."*
+
+Lisa Cassis PhD, UK Vice President for Research (VPR)
+
+------------------------------------------------------------------------
+
+UK has had research misconduct cases in the past few years due to a failure of some researchers to follow Responsible Conduct of Research.
+
+::: r-fit-text
+This effects:
+
+-   The reputation of UK and its researchers;
+-   Researchers/research personnel affiliated with the wrongdoer;
+-   Personnel managing the process for research misconduct;
+-   Researchers doing honest work that could have received the research funding used;
+-   General public if faulty data is used in publications is relied upon by the medical community, product development, etc.
+:::
+
+## Example #1
+
+Eric Smart
+
+## Example #2
+
+Scott Stanley
+
+## Example #3
+
+Xianglin Shi and Zhuo Zhang
+
+
+
+*Then College of Medicine Dean Robert DiPaola was a co-author on one paper
+
+##W Who made this decision?
+
+*"In an effort to ensure a baseline level of responsible conduct of research awareness and hopefully prevent research misconduct, a mandate of responsible conduct of research training was initiated based on a decision by a committee of representatives from several UK offices including offices under the VPR, the legal office, and the Dean for the College of Medicine at the time (current Provost).*
+
+### Subtext
+
+Stems from research shareholder pressure. Funding agencies wanted to know how UKY is combating misconduct. 
+
+## Who needs the training and when?
+
+All researchers and research-eligible UK personnel and graduate students are required to adhere to the RCR online course mandate in addition to the  in-person training/discussion and it must be completed biennially. 
+
+- Included in the mandate:
+- Full-time faculty
+- Staff
+- Graduate students (only have to complete the training once)
+- Trainees (undergraduates, postdoctoral fellows, visiting scientists)
+- Individuals supported in part or fully through research funding, grants and contracts. 
+
+## What does the training include?
+
+
+
+## Areas of RCR Training at UK
+
+-   **Mentoring**
+-   Conflict of Interest
+-   **Peer Review**
+-   **Research Misconduct**
+-   Data Management
+-   **Safe Work Environments**
+-   Reproducibility
+
+## What Will The Rest of the Day Look Like?
+
+-   Observe 3 case studies
+-   Discuss in groups
+-   Summarize key points
+
+*Must have minimum 1 hour of contact together*
+
+# Case Study One
+
+## Peer Review
+
+In this session, learners will consider the implication of unethical conduct in the peer review process.
+
+::: r-fit-text
+Through this case, learners will:
+
+-   learn about ethical conduct during the peer-review process
+-   learn how to manage conflicts of interest and bias related to the peer-review process
+:::
+
+[Case Study #1](https://rwebmedia.ad.uky.edu/ORI/SecureContent/SecureContent/RCR_Cases/Peer_Review/Case_3/story.html)
+
+## Discussion
+
+:::: r-fit-text
+::: incremental
+1.  Sum up the general problem presented in the scenario.
+2.  Did Lisa act appropriately in telling Bill to publish quickly?
+3.  Did Lisa act appropriately in delaying the review? In giving a critical and demanding review of the paper?
+4.  Is there anything Lisa should have done differently when she received the submitted paper?
+5.  Did Bill act unethically in this scenario? What should Bill have done when given the encouragement to publish?
+:::
+::::
+
+::: notes
+Additional prompts: Lisa clearly has a conflict of interest and chooses not to disclose this information. Should Lisa have excused herself from the review? Was Lisa acting fairly to the journal she agreed to help? Was Lisa acting fairly to the researchers that submitted their work for review? Was it ethical to take as long as she did to review the manuscript and then ask for major revisions? Did Lisa treat the manuscript as a confidential document? Did she demonstrate a breach in the confidentiality? Based on the feedback Lisa gave in the video, can we assume Lisa gave objective and unbiased feedback to the researchers? Do you think Lisa demonstrated any bias while performing her review duties?
+:::
+
+## Additional Resources
+
+::: r-fit-text
+-   ORI Peer-review resources: <https://ori.hhs.gov/peer-review-0>
+-   ORI Conflict of interest resources: <https://ori.hhs.gov/conflicts-interest-and-commitment>
+-   ORI Introduction to RCR: Chapter 10. Peer Review: <https://ori.hhs.gov/content/chapter-10-peer-review-Preserving-confidentiality>
+:::
+
+# Case Study Two
+
+## Research Misconduct
+
+In this session, learners will explore research misconduct.
+
+::: r-fit-text
+Through this case, learners will:
+
+-   learn about research misconduct
+-   learn about available resources regarding misconduct at the university
+:::
+
+[Case Study #2](https://rwebmedia.ad.uky.edu/ORI/RCR_Cases/You_suspect_research_misconduct_now_what/index.html)
+
+## Discussion
+
+:::: r-fit-text
+::: incremental
+1.  Sum up the general problem presented in the scenario.
+2.  What should the graduate student (GS) do in this situation?
+3.  What are the possible outcomes?
+4.  Are the possible benefits of remaining silent greater than the potential fallout if someone else figures out that research misconduct occurred?
+5.  If you were in this situation, who would you talk to for advice or report your suspicions?
+:::
+::::
+
+::: notes
+Additional prompts: What advice would you have given to the GS about her current situation? How would you handle the situation if it happened to you? Would your opinion change if the manuscript had been accepted by a high-impact journal?
+:::
+
+## Additional Resources
+
+::: r-fit-text
+-   UK’s Research Misconduct and Reporting webpage: <https://www.research.uky.edu/research-misconduct>
+-   UK’s Responsible Conduct of Research & Scholarly Activity webpage: <https://www.research.uky.edu/responsible-conduct-research>
+-   DHHS ORI’s Introduction to the Responsible Conduct of Research: <https://ori.hhs.gov/sites/default/files/2018-04/rcrintro.pdf>
+-   UK’s Good Research Practice Resource Center: <https://www.research.uky.edu/good-research-practice-resource-center>
+-   CITI RCR Course information: <https://www.research.uky.edu/responsible-conduct-research/getting-started>
+-   UK ORI’s webpage: <https://www.research.uky.edu/office-research-integrity>
+:::
+
+# Case Study Three
+
+## Mentoring
+
+In this session, learners will evaluate ethical considerations in relation to the mentor-mentee relationship.
+
+::: r-fit-text
+Through this case, learners will:
+
+-   learn about ethical conduct in relation to the mentor-mentee relationship
+-   learn how to navigate difficult situations in the mentor-mentee relationship
+-   determine appropriate roles for each party in the mentor-mentee relationship
+:::
+
+[Case Study #3](https://rwebmedia.ad.uky.edu/ORI/SecureContent/SecureContent/RCR_Cases/Mentoring/Case_3/story.html)
+
+## Discussion
+
+:::: r-fit-text
+::: incremental
+1.  Sum up the general problem presented in the scenario.
+2.  What would you do if you were Shannon?
+3.  What actions could Shannon take to make the best of her mentoring relationship with Dr. Gonzales?
+4.  What are the responsibilities of both mentors and trainees in a mentoring relationship? What are some important topics a mentee should discuss with their mentor before beginning their work?
+5.  What could Dr. Gonzales do differently in his approach to mentorship?
+:::
+::::
+
+::: notes
+Additional prompts: There are several ethical considerations presented in this scenario including: Establishing mentor-mentee expectations and responsibilities prior to beginning working together. It would be interesting to ask the audience how many individuals did this before starting their graduate work or an appointment at a new position. What are some important topics a mentee should discuss with their mentor before beginning their work? Is the mentor meeting with the student at regular intervals to assess their work, address issues, and ensure work is on schedule or adjust expectations as necessary? Or is the PI using a hands-off approach? What are characteristics you would/should look for in a mentor? Did Shannon act inappropriately by not communicating her frustrations with her PI until it got out of hand?
+:::
+
+## Additional Resources
+
+::: r-fit-text
+-   UK Academic Ombud: <https://www.uky.edu/ombud/>
+-   ORI mentoring resources: <https://ori.hhs.gov/mentorship>
+-   UK Faculty mentoring resources: <https://www.uky.edu/ofa/faculty-mentoring-resources>
+-   UK’s The Graduate School Office of Postdoctoral affairs Conflict Resolution webpage: <https://www.uky.edu/postdoc/conflict-resolution>
+:::
+
+# Feedback
+
+## Reflect
+
+::: incremental
+-   What were your big takeaways from the training today?
+-   What lingering questions do you still have regarding the content?
+-   How might you improve this training specifically for ISC faculty in the future?
+:::
+
+## Case Studies
+
+Post-session RCR Case Study Survey - <https://uky.az1.qualtrics.com/jfe/form/SV_79CaFBt2jglwtMi>
+
+![](images/Feedback.png)
+
+# Thank you!!
