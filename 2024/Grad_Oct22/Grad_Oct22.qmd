@@ -1,0 +1,291 @@
+---
+title: "RCR & Scholarly Activity In-Person Training"
+format: 
+  revealjs:
+    theme: [dark]
+    slide-number: true
+    preview-links: auto
+    logo: images/ORI.png
+    transition: fade
+    navigation-mode: vertical
+editor: visual
+self-contained: true
+---
+
+# Introduction
+
+Going to start by answering some key questions:
+
+-   Why is this necessary?
+-   Who made this decision?
+-   Who needs the training and when?
+
+## Why is UK mandating RCR training?
+
+*"As a public institution of higher education, public confidence in the responsible conduct of research (RCR) by faculty, staff and students is critical. We must promote and maintain a culture that is supported by an infrastructure that educates and assists in the ethical conduct of research."*
+
+Lisa Cassis PhD, former UK Vice President for Research (VPR)
+
+------------------------------------------------------------------------
+
+UK has had research misconduct cases in the past few years due to a failure of some researchers to follow Responsible Conduct of Research.
+
+::: r-fit-text
+This effects:
+
+-   The reputation of UK and its researchers;
+-   Researchers/research personnel affiliated with the wrongdoer;
+-   Personnel managing the process for research misconduct;
+-   Researchers doing honest work that could have received the research funding used;
+-   General public if faulty data is used in publications is relied upon by the medical community, product development, etc.
+:::
+
+## Examples
+
+::: panel-tabset
+### Eric Smart
+
+![](images/Smart.png){fig-align="center" width="600"}
+
+### Scott Stanley
+
+![](images/Stanley.png){fig-align="center" width="750"}
+
+### Xianglin Shi
+
+![](images/Shi.png){fig-align="center" width="600"}
+
+\*Then College of Medicine Dean Robert DiPaola was a co-author on one paper
+:::
+
+## Who made this decision?
+
+"In an effort to ensure a baseline level of responsible conduct of research awareness and hopefully prevent research misconduct, a mandate of responsible conduct of research training was initiated based on a decision by a committee of representatives from several UK offices including offices under the VPR, the legal office, and the Dean for the College of Medicine at the time (current Provost).
+
+## Who needs the training and when?
+
+::: r-fit-text
+All researchers and research-eligible UK personnel and graduate students are required to adhere to the RCR online course mandate in addition to the in-person training/discussion and it must be completed biennially.
+
+Included in the mandate:
+
+-   Full-time faculty
+-   Staff
+-   Graduate students (only have to complete the training once)
+-   Trainees (undergraduates, postdoctoral fellows, visiting scientists)
+-   Individuals supported in part or fully through research funding, grants and contracts.
+:::
+
+## What does the training include?
+
+::: r-fit-text
+1.  Online Training
+    -   Individuals complete modules and associated quizzes through the CITI platform.
+    -   Must be completed every 2 years by research-eligible individuals. \*Graduate students complete the components once unless joining a research project, grant, or sponsored project.
+2.  In-person training / discussion
+    -   One, one-hour session attended on Zoom or in-person on campus.
+    -   Must be completed every 2 years.
+:::
+
+## Areas of RCR Training at UK
+
+-   Mentoring
+-   Conflict of Interest
+-   Peer Review
+-   Research Misconduct
+-   Data Management
+-   Safe Work Environments
+-   Reproducibility of Research Results
+
+## What Will The Rest of the Day Look Like?
+
+-   Observe 3 case studies
+-   Discuss in groups
+-   Summarize key points
+
+*Must have minimum 1 hour of contact together*
+
+# Case Study One
+
+## Plagiarism
+
+In this session, learners will learn about self-plagiarism.
+
+::: r-fit-text
+Through this case, learners will:
+
+1)  Learn about self-plagiarism
+2)  Learn how to properly reference prior work regardless of author
+3)  Learn about university resources related to this case study
+:::
+
+[Case Study #1](https://rwebmedia.ad.uky.edu/ORI/SecureContent/SecureContent/RCR_Cases/Plagiarism/Case_1/story.html)
+
+## Discussion
+
+::: incremental
+1.  Sum up the general problem presented in the scenario.
+2.  What is self-plagiarism? In this case, do you consider what Dr. Sunny has done to be self-plagiarism? Why or why not?
+3.  Is it appropriate to use paragraphs or sentences and list the reference but not quotation marks to note a citation?
+4.  Is it appropriate to include direct quotes from a source that has been referenced but lacks the use of quotation marks?
+:::
+
+::: notes
+• Can you think of any tools you can use to reference whether someone has plagiarized text? Do you know of any university resources? • Should self-plagiarism be handled differently than plagiarizing someone else’s work? • Should plagiarism in a presentation be handled differently than plagiarism detected in a publication? • Who can you contact at the university to report research misconduct? • Plagiarism is one of the three types of research misconduct. Do you know they other two types? • What could happen if the PI decides to disregard the advice she was given and attempt to publish her work as-is? What consequences could she face? • What would you do if you suspected this type of research misconduct was happening with a colleague you were collaborating with?
+:::
+
+## Additional Resources {.scrollable}
+
+::: r-fit-text
+-   iThenticate resource: <https://www.research.uky.edu/research-misconduct/ithenticate-uk>
+-   The Vice President for Research (VPR) has purchased an iThenticate subscription for full-time faculty. Each RCR-compliant full-time faculty member will receive 5 credits (uploads). Additional information can be found via the provided link. NIH provides iThenticate plagiarism check for selected users at this site\*
+-   UK Libraries EndNote ‘How to’ guide (provides link to download EndNote, guides and contacts for support): <https://libguides.uky.edu/endnote>
+-   Zotero (a free tool to help collect, organize, annotate, cite, and share research): [Zotero \| Your personal research assistant](https://www.zotero.org/)
+-   UK Robert E. Hemenway Writing Center (Provides resources to begin and develop projects including source citing, writing styles and effective communication): <https://wrd.as.uky.edu/writing-center>
+-   UK ORI resources:
+    -   Webpage: <https://www.research.uky.edu/office-research-integrity>
+    -   UK Responsible Conduct of Research & Scholarly Activity webpage: <https://www.research.uky.edu/responsible-conduct-research>
+    -   Research misconduct webpage and reporting tool: <https://www.research.uky.edu/research-misconduct>
+    -   Research misconduct policies: <https://www.research.uky.edu/research-misconduct/policies>
+    -   How to avoid plagiarism video: <https://rwebmedia.ad.uky.edu/ORI/Research_Misconduct/Plagiarism/index.html>
+-   UK Ombud (Addresses Student Academic Rights and problems concerning the commission of academic offenses):
+    -   Webpage: <https://ombud.uky.edu/>
+    -   Plagiarism policy: [Plagiarism: What Is It? \| Academic Ombud Services (uky.edu)](https://www.uky.edu/ombud/plagiarism-what-it)
+-   UK Administrative Regulations (AR): Administrative Regulations are policies adopted by the President to implement the Governing Regulations and provide for the general administration and oversight of the University.
+    -   Link to all ARs: <https://www.uky.edu/regs/administrative-regulations-ar>
+    -   AR 7:1 Research Misconduct <https://www.uky.edu/regs/ar7-1>
+-   U.S. Department of Health and Human Services (DHHS) Office of Research Integrity website (provides information and resources on RCR research and misconduct as well as general research information): <https://ori.hhs.gov/>
+    -   Federal ORI plagiarism policy: <https://ori.hhs.gov/ori-policy-plagiarism>
+    -   Federal ORI on self-plagiarism: <https://ori.hhs.gov/self-plagiarism>
+    -   Introduction to the Responsible Conduct of Research: <https://ori.hhs.gov/sites/default/files/2018-04/rcrintro.pdf>
+    -   Guidance on text recycling: <https://ori.hhs.gov/text-recycling-author%E2%80%99s-previously-disseminated-work>
+-   Text Recycling Research Project gives guidance on reusing text: <https://textrecycling.org/resources/>
+:::
+
+# Case Study Two
+
+## Research Misconduct: Generative AI
+
+In this session, learners will consider issues related to research misconduct and the use of generative artificial intelligence (AI) and machine learning in research and creative endeavors.
+
+::: r-fit-text
+Through this case, learners will:
+
+1)  Consider ethical approaches to research and creative work.
+2)  Learn about resources related to the presented scenario.
+:::
+
+[Case Study #2](https://rwebmedia.ad.uky.edu/ORI/SecureContent/SecureContent/RCR_Cases/Research_Misconduct/Case_8/story.html)
+
+## Discussion
+
+::: incremental
+1.  Sum up the general problem presented in the scenario.
+2.  Is William correct in their assumption that they will not be held liable for the text used from the generative TextAI software?
+3.  Does UK have any guidance on using generative AI/machine learning in research endeavors?
+4.  What advice would you give to the student about using generative AI/machine learning in their research endeavors?
+5.  Are there any concerns researchers should take into account for entering data into a generative AI software?
+:::
+
+::: notes
+Ask participants if they use AI for their research or creative work? Ask participants in what areas has AI software helped their research and creative efforts? Have they encountered any issues with this technology related to their research and creative work? • If you were Dr. Martin, what would you do differently in this situation? What advice would you give to the Dr. Martin or William? What would you do differently if you were William in this situation? • How could Dr. Martin and William approach this scenario more ethically? • Who can you contact at the university with questions or concerns about generative AI related to your research and scholarly activities?
+:::
+
+## Additional Resources {.scrollable}
+
+::: r-fit-text
+-   UK ORI resources:
+    -   Webpage: [Office of Research Integrity (ORI) \| University of Kentucky Research (uky.edu)](https://www.research.uky.edu/office-research-integrity)
+    -   Research misconduct webpage: [Research Misconduct \| University of Kentucky Research (uky.edu)](https://www.research.uky.edu/research-misconduct)
+    -   Research misconduct policies: [Research Misconduct Policies \| University of Kentucky Research (uky.edu)](https://www.research.uky.edu/research-misconduct/policies)
+    -   Authorship and Collaboration resource: <https://www.research.uky.edu/research-misconduct/authorship-and-collaboration>
+-   UK ADVANCE Team: [Home \| ADVANCE Team (uky.edu)](https://advance.uky.edu/)
+-   UK Information Technology Services Cybersecurity Compliance: [Cybersecurity Compliance at the University of Kentucky \| Information Technology Services (uky.edu)](https://its.uky.edu/our-teams/enterprise-cybersecurity/cybersecurity-compliance-university-kentucky)
+-   iThenticate resource: [iThenticate \@ UK \| University of Kentucky Research (uky.edu)](https://www.research.uky.edu/research-misconduct/ithenticate-uk)
+-   UK Good Research Practice Resource Center: <https://www.research.uky.edu/good-research-practice-resource-center>
+-   UK Faculty mentoring resources (Provides links to mentorship books, articles, podcasts and examples of mentorship programs and policies): <https://www.uky.edu/ofa/faculty-mentoring-resources>
+-   UK Ombud webpage (Addresses Student Academic Rights and problems concerning the commission of academic offenses): <https://ombud.uky.edu/>
+-   UK Graduate School webpage (Provides information on student funding, faculty and staff resources and graduate student information): <https://gradschool.uky.edu/>
+-   UK Administrative Regulations (AR): [Administrative Regulations (AR) \| University Regulations (uky.edu)](https://regs.uky.edu/administrative-regulation)
+-   U.S. Department of Health and Human Services (DHHS) Office of Research Integrity website (provides information and resources on RCR research and misconduct as well as general research information):
+    -   Webpage: <https://ori.hhs.gov/>
+    -   DHHS ORI’s Introduction to the Responsible Conduct of Research: <https://ori.hhs.gov/sites/default/files/2018-04/rcrintro.pdf>
+:::
+
+# Case Study Three
+
+## Mentoring / Safe Work Environment
+
+In this session, learners will learn about mentoring, safe work environment issues and methods for reporting misconduct at the University.
+
+::: r-fit-text
+Through this case, learners will:
+
+1)  Learn about appropriate behavior with regards to mentoring
+2)  Consider how to respond to safe work environment issues
+3)  Learn how to report misconduct at the University
+:::
+
+[Case Study #3](https://rwebmedia.ad.uky.edu/ORI/SecureContent/SecureContent/RCR_Cases/Mentoring/Case_3/story.html)
+
+## Discussion
+
+::: incremental
+1.  What issues can you identify in this case?
+2.  What are the responsibilities for both the mentor and mentee in developing a respectful and productive working relationship?
+3.  What could Nicole do if her PI is unwilling to meet? Is there anyone else she can contact to try and resolve the situation?
+4.  How can Dr. Sha create a more inclusive working environment?
+5.  What are ways you can help promote a safe working environment?
+:::
+
+::: notes
+If you encounter a safe work environment issue at UK, who do you contact to report or discuss these issues? Do you think these issues are underreported? Why do you think that is? • What would you do if you were in Nicole’s situation? • What advice would you give to Dr. Sha about his mentoring approach? • Are you allowed to treat students differently in your mentoring approach? Is it ethical to do this? • Is it appropriate for Dr. Sha to comment on the students’ appearance? • Have you ever worked under someone with a mentoring or supervisory style you struggled with? How did you handle this? What advice would you offer to other mentors or students working in these conditions? • Do you think mentoring issues play a role in some research misconduct cases? Why do you think so?
+:::
+
+## Additional Resources {.scrollable}
+
+::: r-fit-text
+-   UK ORI resources:
+    -   Webpage: <https://www.research.uky.edu/office-research-integrity>
+    -   UK Responsible Conduct of Research & Scholarly Activity webpage: <https://www.research.uky.edu/responsible-conduct-research>
+    -   Research misconduct webpage and reporting tool: <https://www.research.uky.edu/research-misconduct>
+    -   Links to policies: <https://www.research.uky.edu/research-misconduct/policies>
+    -   UK ORI Faculty Advisor responsibilities video resource (for IRB protocols): [Faculty advisor responsibilities_01242022 (uky.edu)](https://rwebmedia.ad.uky.edu/ORI/Faculty_Advisor_Responsibilities/story.html)
+-   UK Faculty mentoring resources (Provides links to mentorship books, articles, podcasts and examples of mentorship programs and policies): https://www.uky.edu/ofa/faculty-mentoring-resources
+-   UK Ombud (Addresses Student Academic Rights and problems concerning the commission of academic offenses): <https://ombud.uky.edu>
+-   UK Graduate School (Provides information on student funding, faculty and staff resources and graduate student information): <https://gradschool.uky.edu/>
+-   UK Graduate School Office of Postdoctoral Affairs (Includes postdoc events and educational resources): <https://www.uky.edu/postdoc/>
+-   UK Office of Equal Opportunity (OEO handles complaints of discrimination, harassment, and sexual misconduct for the University of Kentucky):
+    -   Address: 18th Floor, Patterson Office Tower, University of Kentucky, Lexington, KY 40506-0027
+    -   Phone: (859) 257-8927; fax: (859) 323-3739
+    -   Website: <https://oeo.uky.edu/>
+    -   Discrimination, harassment, or sexual misconduct reporting form: <https://cm.maxient.com/reportingform.php?UnivofKentucky&layout_id=30>
+-   UK Human Resources (Provides employee information including the staff handbook, employee relations information and employee training): <https://www.uky.edu/hr/home>
+-   UK Center for Support and Intervention webpage (Provides a central point of entry for concerns regarding students and employees and connecting individuals to resources.): <https://www.uky.edu/concern/>
+-   UK Center for Support and Intervention (Provides a central point of entry for concerns regarding students and employees and connecting individuals to resources.): <https://www.uky.edu/concern/>
+-   UK Healthcare Corporate Compliance Office (Provides a centralized location for reporting illegal, unethical or abusive conduct): <https://ukhealthcare.uky.edu/staff/corporate-compliance>
+-   UK’s Administrative Regulations (AR): policies adopted by the President to implement the Governing Regulations and provide for the general administration and oversight of the University.
+    -   Link to all ARs: <https://www.uky.edu/regs/administrative-regulations-ar>
+-   NSF Resource on harassment: <https://www.nsf.gov/od/oecr/harassment.jsp>
+-   NIH Anti-Sexual Harassment resource: <https://www.nih.gov/anti-sexual-harassment>
+:::
+
+# Feedback
+
+## Reflect
+
+::: incremental
+-   Let's identify three main takeaways from the training.
+-   What lingering questions do you still have regarding the content?
+-   How might you improve this training specifically for CI graduate students in the future?
+:::
+
+## Case Studies
+
+Post-session RCR Case Study Survey - <https://uky.az1.qualtrics.com/jfe/form/SV_79CaFBt2jglwtMi>
+
+![](images/Feedback.png)
+
+# Thank you!!
+
+![](images/Feedback.png)
