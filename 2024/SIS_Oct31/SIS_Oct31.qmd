@@ -1,0 +1,278 @@
+---
+title: "RCR Spooky Session"
+format: 
+  revealjs:
+    theme: [blood]
+    slide-number: true
+    preview-links: auto
+    logo: images/ORI.png
+    transition: fade
+    navigation-mode: vertical
+editor: visual
+self-contained: true
+---
+
+# Introduction
+
+Going to start by answering some key questions:
+
+-   Why is this necessary?
+-   Who made this decision?
+-   Who needs the training and when?
+
+## Why is UK mandating RCR training?
+
+*"As a public institution of higher education, public confidence in the responsible conduct of research (RCR) by faculty, staff and students is critical. We must promote and maintain a culture that is supported by an infrastructure that educates and assists in the ethical conduct of research."*
+
+Lisa Cassis PhD, former UK Vice President for Research (VPR)
+
+------------------------------------------------------------------------
+
+UK has had research misconduct cases in the past few years due to a failure of some researchers to follow Responsible Conduct of Research.
+
+::: r-fit-text
+This effects:
+
+-   The reputation of UK and its researchers;
+-   Researchers/research personnel affiliated with the wrongdoer;
+-   Personnel managing the process for research misconduct;
+-   Researchers doing honest work that could have received the research funding used;
+-   General public if faulty data is used in publications is relied upon by the medical community, product development, etc.
+:::
+
+## Examples
+
+::: panel-tabset
+### Eric Smart
+
+![](images/Smart.png){fig-align="center" width="600"}
+
+### Scott Stanley
+
+![](images/Stanley.png){fig-align="center" width="750"}
+
+### Xianglin Shi
+
+![](images/Shi.png){fig-align="center" width="600"}
+
+\*Then College of Medicine Dean Robert DiPaola was a co-author on one paper
+:::
+
+## Who made this decision?
+
+"In an effort to ensure a baseline level of responsible conduct of research awareness and hopefully prevent research misconduct, a mandate of responsible conduct of research training was initiated based on a decision by a committee of representatives from several UK offices including offices under the VPR, the legal office, and the Dean for the College of Medicine at the time (current Provost).
+
+## Who needs the training and when?
+
+::: r-fit-text
+All researchers and research-eligible UK personnel and graduate students are required to adhere to the RCR online course mandate in addition to the in-person training/discussion and it must be completed biennially.
+
+Included in the mandate:
+
+-   Full-time faculty
+-   Staff
+-   Graduate students (only have to complete the training once)
+-   Trainees (undergraduates, postdoctoral fellows, visiting scientists)
+-   Individuals supported in part or fully through research funding, grants and contracts.
+:::
+
+## What does the training include?
+
+::: r-fit-text
+1.  Online Training
+    -   Individuals complete modules and associated quizzes through the CITI platform.
+    -   Must be completed every 2 years by research-eligible individuals. \*Graduate students complete the components once unless joining a research project, grant, or sponsored project.
+2.  In-person training / discussion
+    -   One, one-hour session attended on Zoom or in-person on campus.
+    -   Must be completed every 2 years.
+:::
+
+## Areas of RCR Training at UK
+
+-   Mentoring
+-   Conflict of Interest
+-   Peer Review
+-   Research Misconduct
+-   Data Management
+-   Safe Work Environments
+-   Reproducibility of Research Results
+
+## What Will The Rest of the Day Look Like?
+
+-   Observe 3 case studies
+-   Discuss in groups
+-   Summarize key points
+
+*Must have minimum 1 hour of contact together*
+
+# Case Study One
+
+## Research Misconduct: Generative AI
+
+In this session, learners will consider issues related to research misconduct and the use of generative artificial intelligence (AI) and machine learning in research and creative endeavors.
+
+::: r-fit-text
+Through this case, learners will:
+
+1)  Consider ethical approaches to research and creative work.
+2)  Learn about resources related to the presented scenario.
+:::
+
+[Case Study #1](https://rwebmedia.ad.uky.edu/ORI/SecureContent/SecureContent/RCR_Cases/Research_Misconduct/Case_8/story.html)
+
+## Discussion
+
+::: r-fit-text
+::: incremental
+1.  Sum up the general problem presented in the scenario.
+2.  Is William correct in their assumption that they will not be held liable for the text used from the generative TextAI software?
+3.  Does UK have any guidance on using generative AI/machine learning in research endeavors?
+4.  What advice would you give to the student about using generative AI/machine learning in their research endeavors?
+5.  Are there any concerns researchers should take into account for entering data into a generative AI software?
+:::
+:::
+
+::: notes
+Ask participants if they use AI for their research or creative work? Ask participants in what areas has AI software helped their research and creative efforts? Have they encountered any issues with this technology related to their research and creative work? • If you were Dr. Martin, what would you do differently in this situation? What advice would you give to the Dr. Martin or William? What would you do differently if you were William in this situation? • How could Dr. Martin and William approach this scenario more ethically? • Who can you contact at the university with questions or concerns about generative AI related to your research and scholarly activities?
+:::
+
+## Additional Resources {.scrollable}
+
+::: r-fit-text
+-   UK ORI resources:
+    -   Webpage: [Office of Research Integrity (ORI) \| University of Kentucky Research (uky.edu)](https://www.research.uky.edu/office-research-integrity)
+    -   Research misconduct webpage: [Research Misconduct \| University of Kentucky Research (uky.edu)](https://www.research.uky.edu/research-misconduct)
+    -   Research misconduct policies: [Research Misconduct Policies \| University of Kentucky Research (uky.edu)](https://www.research.uky.edu/research-misconduct/policies)
+    -   Authorship and Collaboration resource: <https://www.research.uky.edu/research-misconduct/authorship-and-collaboration>
+-   UK ADVANCE Team: [Home \| ADVANCE Team (uky.edu)](https://advance.uky.edu/)
+-   UK Information Technology Services Cybersecurity Compliance: [Cybersecurity Compliance at the University of Kentucky \| Information Technology Services (uky.edu)](https://its.uky.edu/our-teams/enterprise-cybersecurity/cybersecurity-compliance-university-kentucky)
+-   iThenticate resource: [iThenticate \@ UK \| University of Kentucky Research (uky.edu)](https://www.research.uky.edu/research-misconduct/ithenticate-uk)
+-   UK Good Research Practice Resource Center: <https://www.research.uky.edu/good-research-practice-resource-center>
+-   UK Faculty mentoring resources (Provides links to mentorship books, articles, podcasts and examples of mentorship programs and policies): <https://www.uky.edu/ofa/faculty-mentoring-resources>
+-   UK Ombud webpage (Addresses Student Academic Rights and problems concerning the commission of academic offenses): <https://ombud.uky.edu/>
+-   UK Graduate School webpage (Provides information on student funding, faculty and staff resources and graduate student information): <https://gradschool.uky.edu/>
+-   UK Administrative Regulations (AR): [Administrative Regulations (AR) \| University Regulations (uky.edu)](https://regs.uky.edu/administrative-regulation)
+-   U.S. Department of Health and Human Services (DHHS) Office of Research Integrity website (provides information and resources on RCR research and misconduct as well as general research information):
+    -   Webpage: <https://ori.hhs.gov/>
+    -   DHHS ORI’s Introduction to the Responsible Conduct of Research: <https://ori.hhs.gov/sites/default/files/2018-04/rcrintro.pdf>
+:::
+
+# Case Study Two
+
+## Safe Work Environment
+
+In this session, learners will consider issues related to a safe working environment and how to address these concerns.
+
+::: r-fit-text
+Through this case, learners will:
+
+1)  Examine a scenario in which an employee no longer feels they have a safe working environment
+2)  Consider how to approach sexual harassment issues at the university
+3)  Learn about university resources related to the scenario
+:::
+
+[Case Study #2](https://rwebmedia.ad.uky.edu/ORI/SecureContent/SecureContent/RCR_Cases/Safe_Work_Environment/Case_3/index.html)
+
+## Discussion
+
+::: r-fit-text
+::: incremental
+1.  Sum up the general problem presented in the scenario.
+2.  When Ralph first asked Li Yan for a date, was this sexual harassment?
+3.  When did the situation turn into sexual harassment if it did at all?
+4.  Should Li Yan complain to the supervisor again?
+5.  What are examples of ethical and unethical behaviors in the workplace?
+6.  What ethical qualities and behaviors do you feel are essential in this industry?
+:::
+:::
+
+::: notes
+What would you do if you were in Li Yan’s position? • How could Ralph adjust his behavior to create a more inclusive and harassment-free environment for his coworkers? • What would you do if you noticed such behavior occurring between two coworkers? Do you have to report harassment at the university? Do you think this issue goes unreported at the university? Why do you think that is? • What can the university do to prevent such behavior from occurring in the workplace?
+:::
+
+## Additional Resources {.scrollable}
+
+::: r-fit-text
+-   UK ORI resources:
+    -   Webpage: [Office of Research Integrity (ORI) \| University of Kentucky Research (uky.edu)](https://www.research.uky.edu/office-research-integrity)
+    -   Research misconduct webpage: [Research Misconduct \| University of Kentucky Research (uky.edu)](https://www.research.uky.edu/research-misconduct)
+    -   Research misconduct policies: [Research Misconduct Policies \| University of Kentucky Research (uky.edu)](https://www.research.uky.edu/research-misconduct/policies)
+    -   Links to policies: <https://www.research.uky.edu/research-misconduct/policies>
+-   UK’s Office of Equal Opportunity (OEO handles complaints of discrimination, harassment, and sexual misconduct for the University of Kentucky):
+    -   Address: 18th Floor, Patterson Office Tower, University of Kentucky, Lexington, KY 40506-0027
+    -   Phone: (859) 257-8927; fax: (859) 323-3739
+    -   Website: <https://oeo.uky.edu/>
+    -   Discrimination, harassment, or sexual misconduct reporting form: <https://cm.maxient.com/reportingform.php?UnivofKentucky&layout_id=30>
+    -   Link to ADA compliance information: <https://oeo.uky.edu/user/login?destination=/key-priorities/ada-compliance>
+-   UK Police Department: <https://www.uky.edu/police/>
+    -   Webpage: <https://www.uky.edu/police/>
+    -   In case of an emergency, UK Police can be contacted at one of the following: On-campus caller dial 911; off-campus callers dial (859) 257-8573; cell phone users can call via #8573.
+    -   LiveSafe app: a personal safety mobile app UK provides to all students, faculty, and staff to download for free. The app provides a quick, convenient, and discreet way to communicate directly with the University of Kentucky Police Department about potential risks and threats before they escalate, thereby enhancing your overall safety. <https://police.uky.edu/safety/livesafe>
+    -   Sexual assault resources: the University of Kentucky offers a variety of resources, which can be found at <https://studentsuccess.uky.edu/get-help>. If you are a victim of sexual assault and would like help, you can call UK Police’s Special Victims Unit at 859-257-8573 to speak with an advocate.
+-   UK Violence Intervention and Prevention (VIP) Center (Provides a place for all students, faculty, and staff in the UK community to speak confidentially with a staff person about interpersonal (sexual and gender-based) violence issues. Staff will listen and help individuals explore options and resources.):
+    -   Address: 160 Avenue of Champions, Room C316, Gatton Student Center
+    -   Phone: 859-257-3574
+    -   Email: [vipcenter\@uky.edu](vipcenter@uky.edu)
+    -   Webpage: <https://www.uky.edu/vipcenter/>
+-   UK Human Resources webpage (Provides employee information including the staff handbook, employee relations information and employee training): <https://www.uky.edu/hr/home>
+-   UK Center for Support and Intervention webpage (Provides a central point of entry for concerns regarding students and employees and connecting individuals to resources.): <https://www.uky.edu/concern/>
+-   UK Healthcare Corporate Compliance Office webpage (Provides a centralized location for reporting illegal, unethical or abusive conduct): <https://ukhealthcare.uky.edu/staff/corporate-compliance>
+-   UK’s Administrative Regulations (AR) policies adopted by the President to implement the Governing Regulations and provide for the general administration and oversight of the University. <https://www.uky.edu/regs/administrative-regulations-ar>
+    -   AR 6:1 Harassment and Discrimination: <https://www.uky.edu/regs/sites/www.uky.edu.regs/files/files/ar/ar6-1.pdf>
+    -   AR 6:2 Policy and Procedures for Addressing and Resolving Allegations of Sexual Harassment Under Title IX and Other Forms of Sexual Misconduct <https://www.uky.edu/regs/sites/www.uky.edu.regs/files/files/ar/ar_6.2-interim-final_08_14_20_1.pdf>
+:::
+
+# Case Study Three
+
+## Data Management
+
+In this session, learners will evaluate human research ethics and protections.
+
+::: r-fit-text
+Through this case, learners will:
+
+1)  Learn about ethical approaches to human research
+2)  Learn about informed consent
+:::
+
+[Case Study #3](https://rwebmedia.ad.uky.edu/ORI/SecureContent/SecureContent/RCR_Cases/Data_Management/Case_3/story.html)
+
+## Discussion
+
+::: r-fit-text
+::: incremental
+1.  Describe the circumstances surrounding this case.
+2.  What ethical issues does this practice raise?
+3.  Is it permissible to use samples collected for other purposes in this type of research? Would your answer be different if this “proactive” surveillance was not based on previously stored samples, but rather just a tally of HIV+ results reported to individual state Health Departments (which often include identifiable data)?
+4.  Is surveillance associated with other diseases (like the elaborate system of cancer registries we have) fundamentally different from tracking HIV specifically? Should the act of tracking cancer be different from tracking HIV?
+:::
+:::
+
+::: notes
+• How should Steven have approached this study to ensure the design was ethical and followed appropriate regulations? • Who could you contact if you have questions about the design of human research studies? Are there any resources available?
+:::
+
+## Additional Resources
+
+-   OHRP’s Educational resources webpage: [Education & Outreach \| HHS.gov](https://www.hhs.gov/ohrp/education-and-outreach/index.html)
+-   UK ORI’s Getting Started webpage about human research and the IRB process: [Getting Started \| University of Kentucky Research (uky.edu)](https://www.research.uky.edu/office-research-integrity/getting-started)
+-   UK ORI’s IRB survival handbook and IRB SOPs: [Policies & Guidance \| University of Kentucky Research (uky.edu)](https://www.research.uky.edu/office-research-integrity/policies-guidance)
+-   CITI HSP training: [Human Subject Protection (HSP) Training FAQs \| University of Kentucky Research (uky.edu)](https://www.research.uky.edu/office-research-integrity/human-subject-protection-hsp-training-faqs)
+
+# Feedback
+
+## Reflect
+
+::: incremental
+-   Let's identify three main takeaways from the training.
+-   What lingering questions do you still have regarding the content?
+-   How might you improve this training specifically for SIS faculty in the future?
+:::
+
+## Case Studies
+
+Post-session RCR Case Study Survey - <https://uky.az1.qualtrics.com/jfe/form/SV_79CaFBt2jglwtMi>
+
+![](images/Feedback.png)
+
+# Thank you!!
