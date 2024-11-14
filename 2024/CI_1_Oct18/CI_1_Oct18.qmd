@@ -2,14 +2,14 @@
 title: "RCR & Scholarly Activity In-Person Training"
 format: 
   revealjs:
-    theme: [dark]
+    theme: [default]
     slide-number: true
     preview-links: auto
     logo: images/ORI.png
     transition: fade
     navigation-mode: vertical
 editor: visual
-self-contained: true
+self-contained: false
 ---
 
 # Introduction
@@ -55,7 +55,7 @@ This effects:
 
 ![](images/Shi.png){fig-align="center" width="600"}
 
-*Then College of Medicine Dean Robert DiPaola was a co-author on one paper
+\*Then College of Medicine Dean Robert DiPaola was a co-author on one paper
 :::
 
 ## Who made this decision?
@@ -109,7 +109,7 @@ Included in the mandate:
 
 ## Plagiarism
 
-In this session, learners will learn about self-plagiarism. 
+In this session, learners will learn about self-plagiarism.
 
 ::: r-fit-text
 Through this case, learners will:
@@ -285,4 +285,3 @@ Post-session RCR Case Study Survey - <https://uky.az1.qualtrics.com/jfe/form/SV_
 # Thank you!!
 
 ![](images/Feedback.png)
-
